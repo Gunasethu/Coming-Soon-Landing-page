@@ -1,5 +1,5 @@
 # Coming-Soon-Landing-Page
-## Simple product ad page using HTML and CSS
+## Simple product advertisement page using HTML and CSS
 
 Link: https://cocooil.netlify.app/
 ----
