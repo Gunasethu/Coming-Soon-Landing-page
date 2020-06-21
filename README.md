@@ -1,7 +1,7 @@
 # Coming-Soon-Landing-Page
 ## Simple product ad page using HTML and CSS
 
-*Link:* https://cocooil.netlify.app/
+Link: https://cocooil.netlify.app/
 ----
 
 **Things I've tried in this:**
